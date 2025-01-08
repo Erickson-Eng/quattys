@@ -1,4 +1,4 @@
-package br.com.quattys.backend.infrastructure.repository;
+package br.com.quattys.backend.domain.repository;
 
 import br.com.quattys.backend.domain.model.Meal;
 import br.com.quattys.backend.domain.model.key.MealCompositeKey;
